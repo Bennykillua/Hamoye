@@ -1,1 +1,3 @@
-# Hamoye_IntroductionToPythonForMachineLearning
+# Hamoye
+
+Github repository for Hamoye Internship files
